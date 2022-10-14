@@ -16,4 +16,4 @@ In "Seleecione su usuario" just select "Administrador" and in password just writ
 
 This project was developed solely by me. It is not intented to be published as such but it may be useful to someone in need of some of the features of this macro.
 
-Use it at your own risk and only if you know what you're doing with VBA. This tools has 29 modules, 23 forms and 9k lines of code, so if you change something, you better know what you're doing.
+Use it at your own risk and only if you know what you're doing with VBA. This tool has 29 modules, 23 forms and 9k lines of code, so if you change something, you better know what you're doing.
